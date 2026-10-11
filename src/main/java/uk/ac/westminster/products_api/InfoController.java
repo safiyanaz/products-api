@@ -10,5 +10,4 @@ public class InfoController {
     public String info(){
         return "This class provides the info about the application!";
     }
-
 }
