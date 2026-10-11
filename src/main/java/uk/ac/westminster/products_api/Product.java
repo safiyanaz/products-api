@@ -1,6 +1,7 @@
 package uk.ac.westminster.products_api;
 
 
+
 public class Product {
     public Long id;
     public String name;
